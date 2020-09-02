@@ -2,6 +2,4 @@
 Code 1 Project 
 
 
-
-Hi 
-My name is Mustafa 
+my first C++ Program
